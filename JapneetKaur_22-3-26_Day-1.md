@@ -1,7 +1,7 @@
 # Day 1 - POTD
 
 ## Problem 
-Remove Duplicated from Sorted Array
+Remove Duplicates from Sorted Array
 
 ## Approach
 Two Pointers
